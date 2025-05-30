@@ -1,2 +1,3 @@
-# FlutterExam
-Flutter Sirma Academy Exam
+# flutter_exam
+
+A new Flutter project.
