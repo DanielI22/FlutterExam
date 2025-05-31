@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552131467227",
+    "project_id": "callendarexam",
+    "storage_bucket": "callendarexam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552131467227:android:731ea7abab8932511a39fe",
+        "android_client_info": {
+          "package_name": "com.example.flutter_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8sM7pjIxFlX8kmj8j0yua9m-MkeSfyDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
